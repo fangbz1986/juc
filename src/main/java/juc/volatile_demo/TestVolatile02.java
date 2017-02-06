@@ -2,7 +2,7 @@
  * Alipay.com Inc.
  * Copyright (c) 2004-2017 All Rights Reserved.
  */
-package juc.volatilekeyword;
+package juc.volatile_demo;
 
 /**
  *  使用synchronized也可以实现同样的功能，但是性能和volatile比起来，效率比较低

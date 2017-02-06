@@ -2,7 +2,7 @@
  * Alipay.com Inc.
  * Copyright (c) 2004-2017 All Rights Reserved.
  */
-package juc.volatilekeyword;
+package juc.volatile_demo;
 
 /**
  *  当前程序会阻塞
